@@ -1,0 +1,2 @@
+# plataformero
+Java script proyect
